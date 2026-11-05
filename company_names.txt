@@ -1,0 +1,104 @@
+# One company per line. discover.py finds which of them publish jobs through a supported career-page system.
+# Add your own names (any company in Chennai or Bangalore). Lines starting with # are ignored.
+Freshworks
+Chargebee
+Kissflow
+Zeta
+Uniphore
+Sprinklr
+Gupshup
+Yellow.ai
+Observe.AI
+CleverTap
+Mad Street Den
+Vue.ai
+Ideas2IT
+Vuram
+Sedin
+Zilogic
+Eka Care
+Zluri
+Hasura
+Whatfix
+Mindtickle
+Sigmoid
+Fractal
+Thoughtworks
+Atlassian
+Zendesk
+PayPal
+Mastercard
+Ford
+Walmart Global Tech
+Razorpay
+Postman
+BrowserStack
+CRED
+Meesho
+Swiggy
+Zomato
+PhonePe
+Groww
+Zerodha
+Paytm
+Dream11
+Flipkart
+Ola
+Uber
+Rapido
+Slice
+Juspay
+Cashfree
+Setu
+Jar
+Navi
+Zepto
+Dunzo
+Lenskart
+Urban Company
+Myntra
+InMobi
+Unacademy
+upGrad
+Vedantu
+PhysicsWallah
+Druva
+Nutanix
+ThoughtSpot
+Netskope
+Zscaler
+Okta
+Elastic
+MongoDB
+Databricks
+Snowflake
+Confluent
+HashiCorp
+GitLab
+Twilio
+Cloudflare
+Datadog
+Grafana Labs
+Rubrik
+Sumo Logic
+Appsmith
+Hevo Data
+Atlan
+Clari
+Gong
+Chronus
+Pocket FM
+Rippling
+Deel
+Wiz
+Tekion
+Highradius
+Kaleyra
+Exotel
+Ather Energy
+Ultraviolette
+Skyroot
+Pixxel
+Agnikul
+Tata Elxsi
+Zoho
